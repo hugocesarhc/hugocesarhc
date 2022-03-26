@@ -13,6 +13,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugocesarhc&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
 
+##
+  </br><img align="left" alt="hugo_aranha" height="300" width="400"   src="https://github.com/hugocesarhc/hugocesarhc/blob/main/imggit/working-hard-computer.gif"></br>
+  <div align="left">
+  
+  
 <!--
 **hugocesarhc/hugocesarhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
